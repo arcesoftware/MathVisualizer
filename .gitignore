@@ -1,0 +1,65 @@
+# =========================
+# Visual Studio
+# =========================
+
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+# =========================
+# CMake Build Files
+# =========================
+
+build/
+out/
+cmake-build-*/
+
+
+# =========================
+# CMake Generated Files
+# =========================
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+
+
+# =========================
+# Compiled Files
+# =========================
+
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+
+
+# =========================
+# Visual Studio Build
+# =========================
+
+Debug/
+Release/
+x64/
+x86/
+
+
+# =========================
+# VS Code
+# =========================
+
+.vscode/
+
+
+# =========================
+# OS Files
+# =========================
+
+.DS_Store
+Thumbs.db
